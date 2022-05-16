@@ -13,7 +13,7 @@ interface BestSellersState {
 }
 
 export default class BestSellers extends React.Component<BestSellersProps, BestSellersState> {
-  constructor(props: BestSellersProps) {
+  construBREAKctor(props: BestSellersProps) {
     super(props);
 
     this.state = {
