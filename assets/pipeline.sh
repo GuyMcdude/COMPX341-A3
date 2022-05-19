@@ -7,7 +7,7 @@ then
   then
     git add .
     git commit -m "$1"
-    git push .
+    git push
     #npm run start
   else
     echo "Build did not compile"
