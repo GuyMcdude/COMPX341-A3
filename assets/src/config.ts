@@ -11,3 +11,4 @@ export default {
     IDENTITY_POOL_ID: "us-east-1:1ff5a5f9-dd44-4934-b575-97d8d0952439"
   }
 };
+/**Jason Warren 1149130*/
